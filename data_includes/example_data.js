@@ -1,4 +1,4 @@
-var shuffleSequence = seq("consent","setcounter","intro");
+var shuffleSequence = seq("setcounter","intro");
 //var practiceItemTypes = ["practice"];
 
 var showProgressBar = false;
